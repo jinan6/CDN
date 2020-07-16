@@ -73,3 +73,15 @@ body{
 	#footer:before {
 	    background-color: rgba(0, 0, 0, 0);
 	}
+/*页脚文字*/
+#footer-wrap {
+    position: relative;
+    padding: 2rem 1rem;
+    color: #4c4948;
+    text-align: center;
+}
+
+#footer-wrap a {
+    color: #2c2c2c;
+    cursor: pointer;
+}
